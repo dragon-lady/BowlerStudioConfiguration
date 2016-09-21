@@ -7,19 +7,14 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/c1712443c00a412e5f23.git:helloWorld.groovy": [
-      "https://gist.github.com/c1712443c00a412e5f23.git",
-      "helloWorld.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.8",
     "showTerminal": true,
     "skinBranch": "master",
     "showDevices": false,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.3",
+    "currentVersion": "0.19.2",
     "showCreatureLab": false
   }
 }
