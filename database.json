@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/c1712443c00a412e5f23.git:helloWorld.groovy": [
+      "https://gist.github.com/c1712443c00a412e5f23.git",
+      "helloWorld.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.8",
     "showTerminal": true,
