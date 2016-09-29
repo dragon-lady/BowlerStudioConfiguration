@@ -7,14 +7,19 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/dragon-lady/Physical-Computing-2016.git:myParameterWidget.groovy": [
+      "https://github.com/dragon-lady/Physical-Computing-2016.git",
+      "myParameterWidget.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.8",
     "showTerminal": true,
     "skinBranch": "master",
     "showDevices": false,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.2",
+    "currentVersion": "0.19.3",
     "showCreatureLab": false
   }
 }
