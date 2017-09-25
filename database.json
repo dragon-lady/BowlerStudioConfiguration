@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/73df3bfb5ba1dbe0cc5b5f7216f0f646.git:blackCat.groovy": [
+      "https://gist.github.com/73df3bfb5ba1dbe0cc5b5f7216f0f646.git",
+      "blackCat.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.8",
     "showTerminal": true,
