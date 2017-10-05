@@ -8,15 +8,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/10d5b27eceece0c37999.git:sphere.groovy": [
-      "https://gist.github.com/10d5b27eceece0c37999.git",
-      "sphere.groovy"
+    "https://gist.github.com/225358e8ee92c917364a.git:difference.groovy": [
+      "https://gist.github.com/225358e8ee92c917364a.git",
+      "difference.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.8",
     "showTerminal": true,
-    "fontsize": 28,
+    "fontsize": 28.0,
     "skinBranch": "0.22.1",
     "showDevices": false,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
