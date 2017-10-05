@@ -7,11 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/10d5b27eceece0c37999.git:sphere.groovy": [
+      "https://gist.github.com/10d5b27eceece0c37999.git",
+      "sphere.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.8",
     "showTerminal": true,
-    "fontsize": 12.0,
+    "fontsize": 28,
     "skinBranch": "0.22.1",
     "showDevices": false,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
